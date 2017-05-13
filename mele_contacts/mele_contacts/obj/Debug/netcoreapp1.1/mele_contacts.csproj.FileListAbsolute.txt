@@ -1,5 +1,0 @@
-F:\Dev\Meles\mele_contacts\mele_contacts\bin\Debug\netcoreapp1.1\mele_contacts.deps.json
-F:\Dev\Meles\mele_contacts\mele_contacts\bin\Debug\netcoreapp1.1\mele_contacts.runtimeconfig.json
-F:\Dev\Meles\mele_contacts\mele_contacts\bin\Debug\netcoreapp1.1\mele_contacts.runtimeconfig.dev.json
-F:\Dev\Meles\mele_contacts\mele_contacts\obj\Debug\netcoreapp1.1\mele_contacts.csprojResolveAssemblyReference.cache
-F:\Dev\Meles\mele_contacts\mele_contacts\obj\Debug\netcoreapp1.1\mele_contacts.AssemblyInfo.cs
