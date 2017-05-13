@@ -1,0 +1,8 @@
+F:\Dev\Meles\api\bin\Debug\netcoreapp1.1\api.deps.json
+F:\Dev\Meles\api\bin\Debug\netcoreapp1.1\api.runtimeconfig.json
+F:\Dev\Meles\api\bin\Debug\netcoreapp1.1\api.runtimeconfig.dev.json
+F:\Dev\Meles\api\bin\Debug\netcoreapp1.1\api.dll
+F:\Dev\Meles\api\bin\Debug\netcoreapp1.1\api.pdb
+F:\Dev\Meles\api\obj\Debug\netcoreapp1.1\api.AssemblyInfo.cs
+F:\Dev\Meles\api\obj\Debug\netcoreapp1.1\api.dll
+F:\Dev\Meles\api\obj\Debug\netcoreapp1.1\api.pdb

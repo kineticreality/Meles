@@ -1,0 +1,9 @@
+F:\Dev\Meles\main_api\main_api\bin\Debug\netcoreapp1.1\main_api.deps.json
+F:\Dev\Meles\main_api\main_api\bin\Debug\netcoreapp1.1\main_api.runtimeconfig.json
+F:\Dev\Meles\main_api\main_api\bin\Debug\netcoreapp1.1\main_api.runtimeconfig.dev.json
+F:\Dev\Meles\main_api\main_api\bin\Debug\netcoreapp1.1\main_api.dll
+F:\Dev\Meles\main_api\main_api\obj\Debug\netcoreapp1.1\main_api.AssemblyInfo.cs
+F:\Dev\Meles\main_api\main_api\bin\Debug\netcoreapp1.1\main_api.pdb
+F:\Dev\Meles\main_api\main_api\obj\Debug\netcoreapp1.1\main_api.csprojResolveAssemblyReference.cache
+F:\Dev\Meles\main_api\main_api\obj\Debug\netcoreapp1.1\main_api.dll
+F:\Dev\Meles\main_api\main_api\obj\Debug\netcoreapp1.1\main_api.pdb
